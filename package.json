@@ -1,0 +1,23 @@
+{
+  "name": "valkyrie",
+  "version": "1.0.0",
+  "description": "Landing for Baddha.IO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baddha-io/valkyrie.git"
+  },
+  "keywords": [
+    "Landing",
+    "Baddha"
+  ],
+  "author": "Mike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baddha-io/valkyrie/issues"
+  },
+  "homepage": "https://github.com/baddha-io/valkyrie#readme"
+}
