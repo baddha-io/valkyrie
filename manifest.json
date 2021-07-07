@@ -1,0 +1,17 @@
+{
+  "short_name": "Baddha.IO",
+  "name": "Baddha.IO | Features and configs",
+  "description": "Features and configs management service",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#25367D",
+  "background_color": "#002200",
+  "homepage_url": "https://baddha.io"
+}
